@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9qlq1QqdPYjRD9GpgqNo9O1SRcfPVV2k82jkKb/ru9k//y3pmhmup+FFSIdvL5fikuEeQ8AfJyN7+AwMX62pqQ==",
+  "success": true,
+  "projectFilePath": "D:\\AKS blog demo\\ProductAPIProject\\ProductAPIProject\\ProductAPIProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anura\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\anura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
